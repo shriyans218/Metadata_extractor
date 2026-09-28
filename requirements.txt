@@ -1,0 +1,9 @@
+openai
+python-docx
+pytesseract
+pillow
+fastapi
+uvicorn[standard]
+pandas
+python-multipart
+python-dotenv
